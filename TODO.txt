@@ -2,3 +2,5 @@
 2. more spacemacs conf
 3. more sublime conf
 4. more os conf
+
+5. maybe a different repo for conventions? (and order in general...)
